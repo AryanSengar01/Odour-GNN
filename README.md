@@ -46,5 +46,4 @@ Voila😉 Now experiment using `python3 ./main.py`
 
 
 ### Author
-- Github - [vansh2308](https://github.com/vansh2308)
-- Website - [Vansh Agarwal](https://portfolio-website-self-xi.vercel.app/)
+- Github - [AryanSengar01](https://github.com/AryanSengar01)
